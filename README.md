@@ -22,6 +22,17 @@ The dashboard is designed to help stakeholders understand business performance, 
 - Consumer segment contributed the largest share of orders.
 - Sales and profit showed positive growth trends.
 - Regional analysis highlighted top-performing states.
+- 
+## 📷 Dashboard Screenshots
+
+### 📊 Sales Dashboard
+Provides a detailed overview of sales performance across categories, segments, and regions, helping identify revenue trends and top-performing areas.
+
+### 💰 Profit Dashboard
+Analyzes profit distribution across different categories and regions, highlighting profitable and loss-making areas.
+
+### 📦 Orders Dashboard
+Tracks order patterns, customer segments, and product performance to understand business demand and purchasing trends.
 
 ## 🔗 Tableau Public Dashboard
 (https://public.tableau.com/app/profile/janhavi.patole/viz/SampleSuperStoreDASHBOARD/SAMPLEDASHBOARD?publish=yes)
